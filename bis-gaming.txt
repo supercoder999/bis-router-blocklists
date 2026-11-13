@@ -1,0 +1,30 @@
+! Title: BIS shared gaming blocklist
+! Description: Game / chat platforms blocked on BIS AX3000T routers.
+! Edit this file, then run: ./scripts/publish-blocklist.sh
+!
+||roblox.com^
+||rbxcdn.com^
+||steampowered.com^
+||steamcommunity.com^
+||epicgames.com^
+||fortnite.com^
+||minecraft.net^
+||twitch.tv^
+||discord.com^
+||discordapp.com^
+||hoyoverse.com^
+||pubgmobile.com^
+||garena.com^
+||mobilelegends.com^
+||crazygames.com^
+||poki.com^
+||xbox.com^
+||playstation.com^
+||nintendo.com^
+||ea.com^
+||battle.net^
+||riotgames.com^
+||origin.com^
+||ubisoft.com^
+||callofduty.com^
+||rockstargames.com^
